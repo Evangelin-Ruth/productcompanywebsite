@@ -355,13 +355,13 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
-![output](./images/1.jpeg)
-### Product page:
 ![output](./images/2.jpeg)
+### Product page:
+![output](./images/4.jpeg)
 ### People page:
 ![output](./images/3.jpeg)
 ### Contact page:
-![output](./images/4.jpeg)
+![output](./images/1.jpeg)
 
 ## Result:
 
